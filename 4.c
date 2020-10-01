@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main() {
     double a, b, product;
-    printf("Enter two numbers: ");
+    printf("Enter two numbers to multiply: ");
     scanf("%lf %lf", &a, &b);  
  
     // Calculating product
